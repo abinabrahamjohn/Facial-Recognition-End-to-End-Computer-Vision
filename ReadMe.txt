@@ -1,6 +1,3 @@
-*Author*
-Abin Abraham
-
 *Overview*
 We have  developed a face recognition system using MATLAB to detect and identify students, using a database of known face images and videos of the cohort in the computer vision elective. This is an object detection ie classification and localization problem,which is delivered via one single function RecogniseFace.
 
